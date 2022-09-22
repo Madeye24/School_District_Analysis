@@ -1,5 +1,5 @@
 # School_District_Analysis
-School Analysis using Python
+School Analysis using Python [Pandas library]
 
 # Background:
 Assisting Maria, the chief data scientist for a city school district.
