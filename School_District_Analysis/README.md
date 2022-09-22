@@ -1,6 +1,4 @@
 # School_District_Analysis
-School Analysis using Python
-# School_District_Analysis
 School Analysis using Python [Pandas library]
 
 # Background:
